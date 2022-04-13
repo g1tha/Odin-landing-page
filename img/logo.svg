@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300"
+   height="300"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1012">landing_logo</title>
+  <defs
+     id="defs2" />
+  <g
+     id="layer1">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:24.4447;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path892"
+       d="m 167.69759,159.45016 c 5.44457,-6.89188 11.97628,3.93898 11.45476,9.04925 -1.41329,13.84853 -18.44666,18.04646 -29.55326,13.86028 -19.86709,-7.4881 -25.01214,-32.38202 -16.26579,-50.05726 12.83563,-25.93913 46.49651,-32.15685 70.56127,-18.67131 32.07454,17.9741 39.37617,60.67328 21.07682,91.06527 -23.02786,38.24522 -74.87943,46.63377 -111.56928,23.48234 C 68.965786,200.13925 59.488647,139.07667 87.514259,96.105443 120.54147,45.465336 190.84921,34.898422 240.09155,67.812076 296.94379,105.81219 308.60138,185.38676 270.79044,240.89338 227.82723,303.96352 138.97119,316.71249 77.205126,273.99778 7.9129353,226.07832 -5.927966,127.93046 41.695214,59.908459 94.565971,-15.608856 202.01325,-30.542136 276.28854,21.993032"
+       transform="matrix(0.97545222,0,0,0.88540995,0.49574879,20.840678)" />
+  </g>
+  <metadata
+     id="metadata1010">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>landing_logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
