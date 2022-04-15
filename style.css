@@ -1,16 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,700;0,900;1,300&display=swap');
 
 :root {
-    --bgcol1: #17171c;
-    --bgcol2: #2a2933;
-    --bgcol3: #545365;
+    --bgcol1: #0D0D1A;
+    --bgcol2: #1F1F26;
+    --bgcol3: #333340;
     --txtcol1: #BAB8CC;
     --txtcol2: #FFF;
-    --txtcol3: #FFBB33;
-    --txtcol4: #36A9B3;
-    --txtcol5: #2a2933;
-    --emcol1: #36aab5;
-    --emcol2: #52d4e0;  
+    --txtcol3: #FFAA00;
+    --txtcol4: #36A8B3;
+    --txtcol5: #1F1F26;
+    --emcol1: #207880;
+    --emcol2: #36A8B3;  
 }
 
 /* General */
@@ -116,7 +116,7 @@ a:hover {
 
 .signup-d:hover {
     background-color:var(--emcol2);
-    color: #FFF;
+    color: var(--txtcol2);
 }
 
 
@@ -247,7 +247,7 @@ a:hover {
 
 .signup-w:hover {
     background-color:var(--emcol2);
-    color: #FFF;
+    color: var(--txtcol2);
 }
 
 /* Footer */
