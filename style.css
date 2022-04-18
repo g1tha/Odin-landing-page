@@ -1,22 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,700;0,900;1,300&display=swap');
 
 :root {
-    --bgcol1: #090914;
-    --bgcol2: #1C1C29;
-    --bgcol3: #2F2F3D;
-    --bgcol4: #454552;
-    --txtcol1: #CFCFE6;
+    --bgcol1: #000314;
+    --bgcol2: #181A24;
+    --bgcol3: #2A2C3B;
+    --bgcol4: #3A3D4D;
+    --txtcol1: #CFD2E6;
     --txtcol2: #FFF;
-    --txtcol3: #FFAA00;
-    --txtcol4: #36A8B3;
-    --txtcol5: #1C1C29;
-    --emcol1: #207880;
-    --emcol2: #36A8B3;  
+    --txtcol3: #FFA719;
+    --txtcol4: #197780;
+    --txtcol5: #181A24;
+    --emcol1: #197780;
+    --emcol2: #23A4B0;  
 }
 
 /* width */
 ::-webkit-scrollbar {
-    width: auto;
+    width: 16px;
   }
   
   /* Track */
@@ -27,6 +27,7 @@
   /* Handle */
   ::-webkit-scrollbar-thumb {
     background: var(--bgcol3);
+    border-radius: 16px;
   }
   
   /* Handle on hover */
